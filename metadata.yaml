@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26478'
     url: http://www.gutenberg.org/2009/agents/26478
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24423#Fifty-years-with-the-Revere-Copper-Co.A-Paper-Read-at-the-Stockholders-Meeting-held-on-Monday_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2008-01-25'
 gutenberg_type: Text
